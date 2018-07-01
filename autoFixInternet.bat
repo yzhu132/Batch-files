@@ -27,11 +27,11 @@ if errorlevel 1 (
 ) else (
 	echo Internet is working fine!
 	echo # of resets so far: !reset!
-	echo Countup: %%A
+	echo Countup: %%A/99999
 	echo.
 	echo ----------------------------------------
 )
-
+echo Current time: %date%-%time%
 TIMEOUT /t 5
 echo.
 echo ----------------------------------------
