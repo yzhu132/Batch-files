@@ -1,2 +1,2 @@
 # Batch-files
-Some batch files I wrote to automate some processes on my Windows 10 computer
+Batch files I wrote to automate processes on my Windows 10 computer
